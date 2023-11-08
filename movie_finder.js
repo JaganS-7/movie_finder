@@ -1,5 +1,5 @@
- const API_URL="http://www.omdbapi.com/?i=tt3896198&apikey=1a84718d&s=";
- const API_URL_SEARCH="http://www.omdbapi.com/?apikey=1a84718d&i=";
+ const API_URL="https://www.omdbapi.com/?i=tt3896198&apikey=1a84718d&s=";
+ const API_URL_SEARCH="https://www.omdbapi.com/?apikey=1a84718d&i=";
 
  var search_input=document.getElementById("search_input");
  var card=document.getElementsByClassName("movie-cards")[0];
